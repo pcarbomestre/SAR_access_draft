@@ -1,0 +1,10 @@
+name: SAR_AIS_vessel_detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - earthengine-api
+  - geemap
+  - matplotlib
+  - folium
